@@ -1,4 +1,3 @@
-#!/usr/bin/env cabal
 {- cabal:
 ghc-options: -Wunused-imports
 build-depends: base, random, mtl, transformers
