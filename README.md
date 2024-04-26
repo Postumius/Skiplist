@@ -1,7 +1,7 @@
 # Skiplist
 https://en.wikipedia.org/wiki/Skip_list
 
-Basically, it's a search tree (or at least my implementation is) with a randomized data structure.
+Basically, it's a search tree (or at least my implementation is) with a randomized structure.
 
 ## Usage
 Inside of ```Skiplist/```, run ```cabal repl Skiplist.hs```
